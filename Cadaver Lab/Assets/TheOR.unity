@@ -762,12 +762,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1497602476}
   - component: {fileID: 1497602475}
-  - component: {fileID: 1497602474}
   - component: {fileID: 1497602481}
   - component: {fileID: 1497602480}
   - component: {fileID: 1497602479}
   - component: {fileID: 1497602478}
   - component: {fileID: 1497602477}
+  - component: {fileID: 1497602474}
   m_Layer: 0
   m_Name: ClassicalMusic1
   m_TagString: Untagged
