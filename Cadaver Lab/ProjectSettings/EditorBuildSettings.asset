@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TheOR.unity
+    path: Assets/Scenes/TheOR.unity
     guid: 7ae8c2df74fbd5b458eb8cadf9bf67d5
   m_configObjects: {}
