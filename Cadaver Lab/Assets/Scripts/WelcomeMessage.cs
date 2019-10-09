@@ -9,7 +9,6 @@ public class WelcomeMessage : MonoBehaviour
 
     void OnTriggerEnter(Collider other) //when player encounters the trigger
     {
-        //Debug.Log("Object enters");
         if (other.CompareTag("Player")) //my camera tagged as player will initiate this function
         {
             myImage.enabled = true; //image will appear
@@ -18,7 +17,6 @@ public class WelcomeMessage : MonoBehaviour
 
     void OnTriggerExit(Collider other) //when player leaves the trigger
     {
-        //Debug.Log("Object leaves");
         if (other.CompareTag("Player")) //my camera tagged as player will initiate this function
         {
             myImage.enabled = false; //image will disappear
