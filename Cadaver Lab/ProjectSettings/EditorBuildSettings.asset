@@ -35,6 +35,7 @@ EditorBuildSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 05c117a... SampleScenUpdates
 =======
   - enabled: 0
@@ -58,4 +59,7 @@ EditorBuildSettings:
 =======
   m_Scenes: []
 >>>>>>> parent of ef2e87a... Fix1
+=======
+>>>>>>> parent of 05c117a... SampleScenUpdates
+>>>>>>> parent of e97435f... Fix2
   m_configObjects: {}
