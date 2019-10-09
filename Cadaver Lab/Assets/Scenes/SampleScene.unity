@@ -1824,6 +1824,9 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of ef2e87a... Fix1
 --- !u!1 &1801267483
 GameObject:
   m_ObjectHideFlags: 0
@@ -1879,6 +1882,7 @@ Transform:
 =======
   customImage: {fileID: 202979810}
 >>>>>>> 83eac2eb2f69024447b2d1168e9f75e952cd005a
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 05c117a... SampleScenUpdates
 =======
@@ -1889,3 +1893,5 @@ Transform:
 >>>>>>> parent of 0335c7a... Uhhh
 =======
 >>>>>>> parent of 30f0143... Sample Scene attempt 2
+=======
+>>>>>>> parent of ef2e87a... Fix1
