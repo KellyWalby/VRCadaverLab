@@ -1798,6 +1798,7 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1444483553
 GameObject:
@@ -1891,6 +1892,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 1444483553}
   m_CullTransparentMesh: 0
 >>>>>>> parent of 83eac2e... ...
+=======
+>>>>>>> parent of 0335c7a... Uhhh
 --- !u!1 &1456208483
 GameObject:
   m_ObjectHideFlags: 0
