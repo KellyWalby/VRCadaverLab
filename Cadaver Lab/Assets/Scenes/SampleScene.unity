@@ -812,6 +812,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 421127425}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1801267483
 GameObject:
   m_ObjectHideFlags: 0
@@ -865,3 +866,5 @@ Transform:
 =======
   customImage: {fileID: 202979810}
 >>>>>>> 83eac2eb2f69024447b2d1168e9f75e952cd005a
+=======
+>>>>>>> parent of 05c117a... SampleScenUpdates
