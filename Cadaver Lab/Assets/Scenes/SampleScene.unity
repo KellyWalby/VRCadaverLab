@@ -41,6 +41,7 @@ RenderSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_Sun: {fileID: 705507994}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
 =======
   m_Sun: {fileID: 0}
@@ -54,6 +55,9 @@ RenderSettings:
   m_Sun: {fileID: 705507994}
   m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 >>>>>>> parent of 0335c7a... Uhhh
+=======
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+>>>>>>> parent of 7344054... Sample Scene???
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -586,6 +590,7 @@ MonoBehaviour:
   matchNormalOnPhysicsColliders: 0
   rayTransform: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &465958309
 GameObject:
 =======
@@ -751,6 +756,8 @@ CanvasRenderer:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 7344054... Sample Scene???
 --- !u!1 &535841909
 =======
   m_GameObject: {fileID: 202979808}
