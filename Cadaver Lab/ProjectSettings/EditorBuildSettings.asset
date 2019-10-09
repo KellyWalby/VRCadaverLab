@@ -5,18 +5,26 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Scenes: []
 =======
+=======
+>>>>>>> parent of 11f9353... etc
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/TheOR.unity
     guid: 7ae8c2df74fbd5b458eb8cadf9bf67d5
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 11f9353... etc
   - enabled: 0
     path: Assets/Scenes/GrabTest.unity
     guid: 8d3ae11e8e327482186aeca9bb4fe520
   - enabled: 0
     path: Assets/Scenes/CustomHands.unity
     guid: a4f984fcee593d2418cc61f4a993d46d
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 05c117a... SampleScenUpdates
@@ -27,4 +35,11 @@ EditorBuildSettings:
 >>>>>>> parent of 0335c7a... Uhhh
 =======
 >>>>>>> parent of 30f0143... Sample Scene attempt 2
+=======
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+=======
+>>>>>>> 83eac2eb2f69024447b2d1168e9f75e952cd005a
+>>>>>>> parent of 11f9353... etc
   m_configObjects: {}
