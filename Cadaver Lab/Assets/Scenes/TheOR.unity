@@ -2075,13 +2075,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of e97435f... Fix2
 --- !u!1 &1444483553
 GameObject:
   m_ObjectHideFlags: 0
@@ -2099,11 +2092,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-<<<<<<< HEAD
   m_IsActive: 1
-=======
-  m_IsActive: 0
->>>>>>> parent of e97435f... Fix2
 --- !u!224 &1444483554
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2177,14 +2166,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1444483553}
   m_CullTransparentMesh: 0
-<<<<<<< HEAD
->>>>>>> parent of 83eac2e... ...
-=======
->>>>>>> parent of 0335c7a... Uhhh
-=======
->>>>>>> parent of 30f0143... Sample Scene attempt 2
-=======
->>>>>>> parent of e97435f... Fix2
 --- !u!1 &1456208483
 GameObject:
   m_ObjectHideFlags: 0
@@ -16199,21 +16180,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 2123161540}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-<<<<<<< HEAD
-  m_Center: {x: -0, y: 0, z: -0.013406277}
-=======
-  m_Center: {x: 0, y: 0, z: 0}
->>>>>>> parent of 30f0143... Sample Scene attempt 2
---- !u!23 &2123161545
-MeshRenderer:
-=======
   serializedVersion: 6
   m_Component:
   - component: {fileID: 735979174649427865}
@@ -16256,7 +16222,6 @@ GameObject:
   m_IsActive: 1
 --- !u!137 &9206181118306064416
 SkinnedMeshRenderer:
->>>>>>> parent of e97435f... Fix2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
