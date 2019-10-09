@@ -18,10 +18,13 @@ EditorBuildSettings:
     path: Assets/Scenes/CustomHands.unity
     guid: a4f984fcee593d2418cc61f4a993d46d
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 05c117a... SampleScenUpdates
 =======
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
 >>>>>>> parent of 0335c7a... Uhhh
+=======
+>>>>>>> parent of 30f0143... Sample Scene attempt 2
   m_configObjects: {}
