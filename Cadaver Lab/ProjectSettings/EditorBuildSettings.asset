@@ -8,6 +8,9 @@ EditorBuildSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 4df07a0... Fix3
   m_Scenes: []
 =======
 =======
@@ -42,6 +45,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
 >>>>>>> parent of 0335c7a... Uhhh
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 30f0143... Sample Scene attempt 2
 =======
@@ -62,4 +66,6 @@ EditorBuildSettings:
 =======
 >>>>>>> parent of 05c117a... SampleScenUpdates
 >>>>>>> parent of e97435f... Fix2
+=======
+>>>>>>> parent of 4df07a0... Fix3
   m_configObjects: {}
