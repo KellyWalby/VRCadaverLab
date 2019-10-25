@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class VRButton : MonoBehaviour
+public class vrButton : MonoBehaviour
 {
     public Image BackgroundImage;
     public Color NormalColor;

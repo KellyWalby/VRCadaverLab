@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class WelcomeMessage : MonoBehaviour
+public class welcomeMessage : MonoBehaviour
 {
     [SerializeField] private Image myImage; //SerializeField allows option to show in the inspector; named the image I will use myImage
 

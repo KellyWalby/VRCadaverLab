@@ -215,7 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 286223598}
   m_Layer: 0
-  m_Name: EntryWay
+  m_Name: entryWay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -319,7 +319,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 1ee2328736527460b965c63e3bf6c1d8, type: 3}
       propertyPath: m_Name
-      value: music_table
+      value: musicTable
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 1ee2328736527460b965c63e3bf6c1d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 465544115}
   - component: {fileID: 465544114}
   m_Layer: 0
-  m_Name: EventSystem
+  m_Name: eventSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -484,7 +484,7 @@ GameObject:
   - component: {fileID: 515532795}
   - component: {fileID: 515532794}
   m_Layer: 0
-  m_Name: Area Light (3)
+  m_Name: areaLight4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -595,7 +595,7 @@ GameObject:
   - component: {fileID: 630023333}
   - component: {fileID: 630023332}
   m_Layer: 0
-  m_Name: Area Light (2)
+  m_Name: areaLight3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -688,7 +688,7 @@ GameObject:
   - component: {fileID: 672490685}
   - component: {fileID: 672490684}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 775937227}
   - component: {fileID: 775937226}
   m_Layer: 0
-  m_Name: table_skeleton
+  m_Name: tableSkeleton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -974,7 +974,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Name
-      value: OVRPlayerController
+      value: ovrPlayerController
       objectReference: {fileID: 0}
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_TagString
@@ -1423,6 +1423,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f54738346ae7e4116a8f028bbf4683f3, type: 2}
+    - target: {fileID: 137383442524578654, guid: ba1fa4a8c66106b4988c88fe4b8e8502,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f54738346ae7e4116a8f028bbf4683f3, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba1fa4a8c66106b4988c88fe4b8e8502, type: 3}
 --- !u!4 &1055343026 stripped
@@ -1518,7 +1523,7 @@ GameObject:
   - component: {fileID: 1078602256}
   - component: {fileID: 1078602255}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1744,7 +1749,7 @@ GameObject:
   - component: {fileID: 1158057129}
   - component: {fileID: 1158057132}
   m_Layer: 0
-  m_Name: table_organ
+  m_Name: tableOrgan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1836,7 +1841,7 @@ GameObject:
   - component: {fileID: 1202693782}
   - component: {fileID: 1202693785}
   m_Layer: 0
-  m_Name: table_muscle
+  m_Name: tableMuscle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2051,7 +2056,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1334600386}
   m_Layer: 0
-  m_Name: Cubes
+  m_Name: cubes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2304,7 +2309,7 @@ GameObject:
   - component: {fileID: 1497602475}
   - component: {fileID: 1497602474}
   m_Layer: 0
-  m_Name: ClassicalMusic1
+  m_Name: classicalMusic1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2442,7 +2447,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 8085f9bbab7c45f47976381ce22a2a53,
         type: 3}
       propertyPath: m_Name
-      value: TheOR
+      value: theOr
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 8085f9bbab7c45f47976381ce22a2a53,
         type: 3}
@@ -2522,7 +2527,7 @@ GameObject:
   - component: {fileID: 1688409891}
   - component: {fileID: 1688409890}
   m_Layer: 0
-  m_Name: Area Light (1)
+  m_Name: areaLight2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2624,7 +2629,7 @@ GameObject:
   - component: {fileID: 1871270283}
   - component: {fileID: 1871270282}
   m_Layer: 0
-  m_Name: Exit
+  m_Name: exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2920,7 +2925,7 @@ GameObject:
   - component: {fileID: 2066014312}
   - component: {fileID: 2066014311}
   m_Layer: 0
-  m_Name: Area Light
+  m_Name: areaLight1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9225,7 +9230,7 @@ GameObject:
   - component: {fileID: 430431023944196462}
   - component: {fileID: 7742586601424079892}
   m_Layer: 0
-  m_Name: Skeleton Main
+  m_Name: skeletonMain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

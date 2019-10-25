@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class mrbones : MonoBehaviour
+public class mrBones : MonoBehaviour
 {
     [SerializeField] private Text myText; //SerializeField allows option to show in the inspector; named the image I will use myImage
 

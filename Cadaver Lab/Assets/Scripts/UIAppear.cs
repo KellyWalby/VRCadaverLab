@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIAppear : MonoBehaviour
+public class uiAppear : MonoBehaviour
 {
     [SerializeField] private Image customImage;
 

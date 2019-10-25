@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/TheOR.unity
+    path: Assets/Scenes/theOr.unity
     guid: 7ae8c2df74fbd5b458eb8cadf9bf67d5
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/sampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Oculus/VR/Scenes/UI.unity

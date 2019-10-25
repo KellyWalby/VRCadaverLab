@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ContinuousAudio : MonoBehaviour
+public class continuousAudio : MonoBehaviour
 {
     private void Awake() //while Oculus is awake
     {
