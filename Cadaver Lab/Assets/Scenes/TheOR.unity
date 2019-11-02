@@ -1516,8 +1516,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.4098544
-  m_Range: 6.54
+  m_Intensity: 35
+  m_Range: 1.5
   m_SpotAngle: 19.3
   m_InnerSpotAngle: 12.2
   m_CookieSize: 10
@@ -1615,7 +1615,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.003921569}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.15686275}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2063,8 +2063,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.4098544
-  m_Range: 6.54
+  m_Intensity: 35
+  m_Range: 1.5
   m_SpotAngle: 21.6
   m_InnerSpotAngle: 21.6
   m_CookieSize: 10
@@ -4004,8 +4004,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.4098544
-  m_Range: 6.54
+  m_Intensity: 35
+  m_Range: 1.5
   m_SpotAngle: 14.6
   m_InnerSpotAngle: 12.2
   m_CookieSize: 10
@@ -5014,8 +5014,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.4098544
-  m_Range: 6.54
+  m_Intensity: 35
+  m_Range: 1.5
   m_SpotAngle: 13
   m_InnerSpotAngle: 9.1
   m_CookieSize: 10
@@ -6120,8 +6120,8 @@ Light:
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.4098544
-  m_Range: 6.54
+  m_Intensity: 35
+  m_Range: 1.5
   m_SpotAngle: 12.2
   m_InnerSpotAngle: 8.3
   m_CookieSize: 10
